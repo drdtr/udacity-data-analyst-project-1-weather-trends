@@ -11,7 +11,7 @@ Introductory project 1 of Udacity Data Analyst Nanodegree for exploring weather 
 
 ## Copyright notice
 
-This project was created by David Trachtenherz within the scope of the Udacity [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002) nanodegree program, and in parts submitted to Udacity.
+This project was created by David Trachtenherz within the scope of the Udacity nanodegree program [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002), and in parts submitted to Udacity.
 It is published under the [MIT License](https://opensource.org/licenses/MIT) so you may use it at your discretion. Yet, please remember that copying it or its parts to an own solution, which you submit to Udacity, would violate the [Udacity Honor Code](https://www.udacity.com/legal/en-eu/honor-code).
 
 ```
