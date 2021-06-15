@@ -1,12 +1,20 @@
 # Explore Weather Trends
 
-Introductory project 1 of Udacity Data Analyst Nanodegree for exploring weather trends on the basis of annual average temperatures. The global temperatures as well as local temperatures for a number of cities were provided in a relational database.
+Introductory project 1 of Udacity nanodegree program [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002). 
+The project deals with exploring weather trends on the basis of annual average temperatures. 
+The global temperatures as well as local temperatures for a number of cities were provided in a relational database.
 
 ## Solution steps
 - Query data with SQL
 - Calculate moving averages in Excel
 - Create a line chart in Excel
 - Write up solution steps and analysis results
+
+## Files 
+- `analyze_city_weather.sql`: Queries used in the project
+- `analyze_city_weather.xlsx`: Data set and charts as Excel file
+- `Weather trends project.docx`: Project results as Word file
+- `Weather trends project.pdf`: Project results as pdf file 
 
 
 ## Copyright notice
